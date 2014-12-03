@@ -36,31 +36,9 @@
             </div><!--/span-->
           </div><!--/row-->
         </div><!--/span-->
-
-        <!-- <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
-          <div class="list-group">
-            <a href="http://v3.bootcss.com/examples/offcanvas/#" class="list-group-item active">ZenFit</a>
-            <a href="http://v3.bootcss.com/examples/offcanvas/#" class="list-group-item">Mazi CMS</a>
-            <a href="http://v3.bootcss.com/examples/offcanvas/#" class="list-group-item">PG2Z</a>
-            <a href="http://v3.bootcss.com/examples/offcanvas/#" class="list-group-item">SBPHP</a>
-            <a href="http://v3.bootcss.com/examples/offcanvas/#" class="list-group-item">wu</a>
-            <a href="http://v3.bootcss.com/examples/offcanvas/#" class="list-group-item">CodeFM</a>
-            <a href="http://v3.bootcss.com/examples/offcanvas/#" class="list-group-item">Bookmarkit</a>
-            <a href="http://v3.bootcss.com/examples/offcanvas/#" class="list-group-item">RockyClub</a>
-            <a href="http://v3.bootcss.com/examples/offcanvas/#" class="list-group-item">Link</a>
-            <a href="http://v3.bootcss.com/examples/offcanvas/#" class="list-group-item">N</a>
-          </div>
-        </div> -->
-        <!--/span-->
       </div><!--/row-->
-
       <hr>
-
-      <footer>
-        <p>© allengaller.com 2014</p>
-		<p><a href="https://www.upyun.com/"><img src="http://upfiles.b0.upaiyun.com/logo/90x45.png" alt="UPYUN"></a></p>
-      </footer>
-
+      <?php require('elem/footer.php');?>
     </div><!--/.container-->
 
 

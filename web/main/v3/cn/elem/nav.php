@@ -12,11 +12,11 @@
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li class="active"><a href="http://allengaller.com/">首页</a></li>
-            <li><a href="studio.php">私人工坊</a></li>
-            <li><a href="http://allengaller.com">开源社区</a></li>
-            <li><a href="http://allengaller.com">博客入口</a></li>
-            <li><a href="http://allengaller.com">关于亚仑</a></li>
-            <li><a href="http://allengaller.com">英文版</a></li>
+            <li><a href="studio.php">个人工坊</a></li>
+            <li><a href="community.php">开源社区</a></li>
+            <li><a href="publish.php">技术出版</a></li>
+            <li><a href="about.php">自我介绍</a></li>
+            <li><a href="http://en.allengaller.com">English Version</a></li>
           </ul>
         </div><!-- /.nav-collapse -->
       </div><!-- /.container -->

@@ -11,23 +11,16 @@
           <p class="pull-right visible-xs">
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
-          123
+          曹亚仑 85后，全栈 Web 开发者，<br/>
+          擅长并专注于SaaS系统架构设计与研发, <br/>
+          兴趣方向为PaaS和智能可穿戴设备。<br/>
+          业余生活中喜欢弹钢琴，有氧运动和瑜伽。<br/>
+          热爱技术出版，至今参与并出版著作《Docker 技术入门与实战》，译著《Arduino无线传感器网络实践指南》。<br/>
+          开源图书《程序员禅修指南》。<br/>
         </div><!--/span-->
       </div><!--/row-->
       <hr>
       <?php require('elem/footer.php');?>
     </div><!--/.container-->
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="./src/jquery.min.js"></script>
-    <script src="./src/bootstrap.min.js"></script>
-
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="./src/ie10-viewport-bug-workaround.js"></script>
-
-    <script src="./src/offcanvas.js"></script>
-  
-
+    <?php require('elem/js.php');?>
 <div id="cli_dialog"></div></body></html>

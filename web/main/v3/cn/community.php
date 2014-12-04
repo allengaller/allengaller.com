@@ -59,17 +59,5 @@
       <hr>
       <?php require('elem/footer.php');?>
     </div><!--/.container-->
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="./src/jquery.min.js"></script>
-    <script src="./src/bootstrap.min.js"></script>
-
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="./src/ie10-viewport-bug-workaround.js"></script>
-
-    <script src="./src/offcanvas.js"></script>
-  
-
+    <?php require('elem/js.php');?>
 <div id="cli_dialog"></div></body></html>

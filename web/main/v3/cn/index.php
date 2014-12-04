@@ -14,18 +14,17 @@
           <p class="pull-right visible-xs">
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
-          <div class="jumbotron">
+          <div class="jumbotron" style="min-height: 250px">
             <!-- <img src="http://ag-qiniu.u.qiniudn.com/img.png" style="float: right;width: 80px;position: relative;left: -10px;top: 20px;"> -->
-               <div>
+               <div style="float:left; min-width:50% ">
                  <p>Allen Galler</p>
                  <b>Full-stack Web Developer (ongoing)</b><br/><br/>
                  专注 : SaaS系统架构设计与研发 <br/>
                  兴趣 : PaaS 智能可穿戴设备 <br/>
                  生活 : 技术出版 有氧运动 钢琴 瑜伽
                </div>
-               <div style="float: right;width: 80px;position: relative; left: -10px;top: 20px;">
-               <i class="icon-github-alt"></i> icon-github-alt
-               <i class="fa fa-camera-retro"></i> fa-camera-retro
+               <div style="float: left;">
+                  <a href="https://github.com/allengaller"><i class="icon-github-alt"></i> &nbsp; Github: allengaller</a>
                </div>
           </div>
           <div class="row">

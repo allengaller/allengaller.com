@@ -9,8 +9,8 @@
           <p class="pull-right visible-xs">
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
-          <div class="jumbotron" style="min-height: 2000px;">
-            <div style="float:left; min-width: 150px">
+          <div class="jumbotron" style="min-height: 1000px;">
+            <div style="float:left; min-width: 500px">
              <b>Allen Galler</b><br/>
              <b>Full-stack Web Developer</b><br/><br/>
              <i class="fa fa-flag"></i>&nbsp;Focus on SaaS Architecture Design and Coding.<br/>

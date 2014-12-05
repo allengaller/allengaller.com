@@ -16,6 +16,12 @@
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
           
+          <div class="jumbotron" style="min-height: 250px">
+              <p>我是热情的开源人. </p>
+              <p>目前是 DockerPool 社区的运营负责人, CoreOS 中国用户组的创始人兼运营.</p>
+              <p>我还建立了 Deis , Vargrant 以及无线传感器中国用户组. 目前各大社区都需要合伙人, 欢迎扎堆.</p>
+          </div>
+
           <div class="row">
             <div class="col-xs-6 col-lg-4">
               <h2>DockerPool</h2>

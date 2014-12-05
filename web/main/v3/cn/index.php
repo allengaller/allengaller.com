@@ -1,66 +1,85 @@
 <!DOCTYPE html>
-<!-- saved from url=(0041)http://v3.bootcss.com/examples/offcanvas/ -->
 <html lang="en">
   <?php require('elem/head.php');?>
   <body>
     <?php require('elem/nav.php');?>
-
     <div class="container">
-
       <div class="row row-offcanvas row-offcanvas-right">
-
         <div class="col-xs-12 col-sm-12">
-        <!-- col-sm-9 -->
           <p class="pull-right visible-xs">
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
-          <div class="jumbotron" style="min-height: 250px">
-            <!-- <img src="http://ag-qiniu.u.qiniudn.com/img.png" style="float: right;width: 80px;position: relative;left: -10px;top: 20px;"> -->
-               <div style="float:left; min-width:50% ">
-                 <p>Allen Galler</p>
-                 <b>Full-stack Web Developer (ongoing)</b><br/><br/>
-                 专注 : SaaS系统架构设计与研发 <br/>
-                 兴趣 : PaaS 智能可穿戴设备 <br/>
-                 生活 : 技术出版 有氧运动 钢琴 瑜伽
-               </div>
-               <div style="float: left;">
-                  <a href="https://github.com/allengaller"><i class="icon-github-alt"></i> &nbsp; Github: allengaller</a>
-               </div>
-          </div>
-          <div class="row">
-            <div class="col-xs-6 col-lg-4">
-              <!-- s<img src="http://ag-qiniu.u.qiniudn.com/sa_logo.jpg" height="50%" width="50%"> -->
-              <h3>个人工坊</h3>
-              <p>我成立了两个工坊: </p>
-              <p>基码(apps4coder) 和 正禅(ZenX).</p>
-              <p>基码是我的好奇心游乐园. 正禅是我憋大招的小黑屋.</p>
-              <p>基码面向码农, 是可基的. 正禅面向普罗大众, 不可基.</p>
-              <p><a target="_new" class="btn btn-default" href="http://allengaller.com/studio.php" role="button">了解更多 »</a></p>
-            </div><!--/span-->
-            <div class="col-xs-6 col-lg-4">
-              <h3>开源社区</h3>
-              <p>我是积极热情的开源人. </p>
-              <p>目前是 DockerPool 社区的运营负责人, CoreOS 中国用户组的创始人兼运营.</p>
-              <p>我还建立了 Deis , Vargrant 以及无线传感器中国用户组. 目前各大社区都需要合伙人, 欢迎扎堆.</p>
-              <p><a target="_new" class="btn btn-default" href="http://allengaller.com/community.php" role="button">了解更多 »</a></p>
-            </div><!--/span-->
-            <div class="col-xs-6 col-lg-4">
-              <h3>技术出版</h3>
-              <p>我是积极的技术出版人.</p>
-              <p>至今参与并出版著作《Docker 技术入门与实战》，译著《Arduino无线传感器网络实践指南》.</p>
-              <p>目前在书写开源图书《程序员禅修指南》.敬请期待.</p>
-              <p><a target="_new" class="btn btn-default" href="http://allengaller.com/publish.php" role="button">了解更多 »</a></p>
-            </div><!--/span-->
-          </div><!--/row-->
-        </div><!--/span-->
+          <div class="jumbotron" style="min-height: 2000px;">
+            <div style="float:left; min-width: 150px">
+             <b>Allen Galler</b><br/>
+             <b>Full-stack Web Developer</b><br/><br/>
+             <i class="fa fa-flag"></i>&nbsp;Focus on SaaS Architecture Design and Coding.<br/>
+             <i class="fa fa-heart"></i>&nbsp;Interested in PaaS and Wearable.<br/>
+             <i class="fa fa-leaf"></i>&nbsp;Loving publishing, aerobic exercise, piano and yoga.<br/>
+            </div>
+            <div>
+              <b>亚仑</b><br/>
+              <b>全栈 Web 开发者</b><br/><br/>
+              <i class="fa fa-flag"></i>&nbsp;专注于SaaS系统架构设计与研发.<br/>
+              <i class="fa fa-heart"></i>&nbsp;兴趣在PaaS和智能可穿戴设备.<br/>
+              <i class="fa fa-leaf"></i>&nbsp;业余爱好是技术出版,有氧运动,钢琴和瑜伽.<br/>
+            </div>
+            <br/><hr><br/>
+            <div>
+              <i class="fa fa-github-alt"></i>&nbsp;<a href="https://blog.allengaller.com/">Blog</a>
+              &nbsp;&nbsp;
+              <i class="fa fa-github-alt"></i>&nbsp;<a href="https://allengaller.com/studio.php">Studio</a>
+              &nbsp;&nbsp;
+              <i class="fa fa-github-alt"></i>&nbsp;<a href="https://allengaller.com/community.php">Community</a>
+              &nbsp;&nbsp;
+              <i class="fa fa-github-alt"></i>&nbsp;<a href="https://allengaller.com/publishing.php">Publishing</a>
+            </div>
+            <br/><hr><br/>
+            <div>
+              <b>Developers Network:</b><br/>
+              <i class="fa fa-github-alt"></i>&nbsp;<a href="https://github.com/allengaller">Github</a><br/>
+              <i class="fa codepen"></i>&nbsp;<a href="https://github.com/allengaller">Codepen</a><br/>
+            </div>
+            <br/><hr><br/>
+
+              <b>Chinese Contact:</b><br/>
+              <i class="fa fa-paper-plane-o"></i>&nbsp;<a href="https://github.com/allengaller">allengaller(at)gmail.com & allengaller(at)qq.com</a>
+              <i class="fa fa-qq"></i>&nbsp;<a href="https://github.com/allengaller">QQ</a>:517946367
+              <i class="fa fa-weixin"></i>&nbsp;<a href="https://github.com/allengaller">Weixin</a>:allengaller<br>
+              <i class="fa fa-weibo"></i>&nbsp;Weibo:<a href="https://github.com/allengaller">@allengaller</a><br>
+              <i class="fa fa-skype"></i>&nbsp;<a href="https://github.com/allengaller">Skype</a>: allengaller<br>
+              <br/><hr><br/>
+              <b>universal Contact:</b><br/>
+              <i class="fa fa-linkedin"></i>&nbsp;<a href="https://github.com/allengaller">LinkedIn</a>
+              &nbsp;
+              <i class="fa fa-facebook"></i> &nbsp;<a href="https://github.com/allengaller">Facebook</a>
+              &nbsp;
+              <i class="fa fa-twitter"></i> &nbsp;<a href="https://github.com/allengaller">Twitter</a>
+              &nbsp;
+              <i class="fa fa-google-plus"></i> &nbsp;<a href="https://github.com/allengaller">google-plus</a>
+              <br/><hr><br/>
+              <b>Sharing</b><br/>
+              <i class="fa fa-steam"></i>&nbsp;<a href="https://github.com/allengaller">Steam</a>
+              &nbsp;
+              <i class="fa fa-tumblr"></i>&nbsp;<a href="https://github.com/allengaller">Tumblr</a>
+              &nbsp;
+              <i class="fa fa-flickr"></i>&nbsp;<a href="https://github.com/allengaller">flickr</a>
+              &nbsp;
+              <i class="fa fa-dribbble"></i>&nbsp;<a href="https://github.com/allengaller">Dribbble</a>
+              &nbsp;
+              <i class="fa fa-slideshare"></i>&nbsp;<a href="https://github.com/allengaller">slideshare</a>
+              &nbsp;
+              <i class="fa fa-youtube-play"></i> &nbsp;<a href="https://github.com/allengaller">youtube</a>
+              &nbsp;
+            </div>
+          </div>  
+        </div>
       </div><!--/row-->
       <hr>
-    <?php require('elem/footer.php');?>
+      <?php require('elem/footer.php');?>
     </div><!--/.container-->
     <?php require('elem/js.php');?>
-<div id="cli_dialog"></div>
-
-<script type="text/javascript" src="http://tajs.qq.com/stats?sId=38878023" charset="UTF-8"></script>
-
-</body>
+    <div id="cli_dialog"></div>
+  <script type="text/javascript" src="http://tajs.qq.com/stats?sId=38878023" charset="UTF-8"></script>
+  </body>
 </html>

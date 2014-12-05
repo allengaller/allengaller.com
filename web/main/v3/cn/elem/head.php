@@ -6,7 +6,7 @@
     <meta name="author" content="">
     <link rel="icon" href="http://v3.bootcss.com/favicon.ico">
 
-    <title>Allen Galler 雅伦</title>
+    <title>Allen Galler</title>
 
     <!-- Bootstrap core CSS -->
     <link href="http://v3.bootcss.com/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -16,7 +16,7 @@
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-    <script src="./src/ie-emulation-modes-warning.js"></script>
+    <script src="../src/js/ie-emulation-modes-warning.js"></script>
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -24,5 +24,5 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" href="../../src/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../src/css/font-awesome.min.css">
   </head>

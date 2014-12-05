@@ -11,12 +11,11 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="http://allengaller.com/">首页</a></li>
-            <li><a href="studio.php">个人工坊</a></li>
-            <li><a href="community.php">开源社区</a></li>
-            <li><a href="publish.php">技术出版</a></li>
-            <li><a href="about.php">自我介绍</a></li>
-            <li><a href="http://en.allengaller.com">English Version</a></li>
+            <li><a href="http://allengaller.com/"><i class="fa fa-home"></i>&nbsp;&nbsp;Main&nbsp;&nbsp;</a></li>
+            <li><a href="studio.php"><i class="fa fa-lightbulb-o"></i>&nbsp;&nbsp;Studios&nbsp;&nbsp;</a></li>
+            <li><a href="community.php"><i class="fa fa-globe"></i>&nbsp;&nbsp;Community&nbsp;&nbsp;</a></li>
+            <li><a href="publish.php"><i class="fa fa-book"></i>&nbsp;&nbsp;Publishing&nbsp;&nbsp;</a></li>
+            <li><a href="about.php"><i class="fa fa-info"></i>&nbsp;&nbsp;About&nbsp;&nbsp;</a></li>
           </ul>
         </div><!-- /.nav-collapse -->
       </div><!-- /.container -->

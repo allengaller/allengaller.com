@@ -14,10 +14,17 @@
           <p class="pull-right visible-xs">
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
-          
+
+          <div class="jumbotron" style="min-height: 250px">
+              <p>我成立了两个工坊: </p>
+              <p>基码(apps4coder) 和 正禅(ZenX).</p>
+              <p>基码是我的好奇心游乐园. 正禅是我憋大招的小黑屋.</p>
+              <p>基码面向码农, 是可基的. 正禅面向普罗大众, 不可基.</p>
+          </div>
+
           <div class="row">
             <div class="col-xs-6 col-lg-4">
-              <h2>apps4coder</h2>
+              <h2>apps4coder 基码</h2>
               <p>The apps4coder Studio is focusing on creating awesome web/mobile apps for programmers or hacker. </p>
               <p>We are shipping out some dev-tools, social and educational apps, and even health solutions.</p>
               <p><a target="_new" class="btn btn-default" href="http://www.apps4coder.com" role="button">View Website »</a></p>

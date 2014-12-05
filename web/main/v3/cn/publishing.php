@@ -11,6 +11,13 @@
           <p class="pull-right visible-xs">
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
+
+          <div class="jumbotron" style="min-height: 250px">
+              <p>我是积极的技术出版人.</p>
+              <p>至今参与并出版著作《Docker 技术入门与实战》，译著《Arduino无线传感器网络实践指南》.</p>
+              <p>目前在书写开源图书《程序员禅修指南》.敬请期待.</p>
+          </div>
+
           <div class="row">
             <div class="col-xs-6 col-lg-4">
               <img src="http://ag-qiniu.u.qiniudn.com/arduino_book.jpg">

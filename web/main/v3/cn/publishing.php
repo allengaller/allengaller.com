@@ -12,10 +12,8 @@
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
 
-          <div class="jumbotron" style="min-height: 250px">
-              <p>我是积极的技术出版人.</p>
-              <p>至今参与并出版著作《Docker 技术入门与实战》，译著《Arduino无线传感器网络实践指南》.</p>
-              <p>目前在书写开源图书《程序员禅修指南》.敬请期待.</p>
+          <div class="jumbotron" style="min-height: 50px">
+              <p>写作与阅读, 于我而言, 是与自己相处的最佳方式.</p>
           </div>
 
           <div class="row">
@@ -23,8 +21,7 @@
               <img src="http://ag-qiniu.u.qiniudn.com/arduino_book.jpg">
               <h2>Arduino 无线传感器网络实践指南</h2>
               <p>这是一本 Arduino 与 Zigbee 技术的入门指南. </p>
-              <p>本书是我参与并出版的第一本译著. </p>
-              <p>本书比较适合有技术基础的开源硬件爱好者. </p>
+              <p>本书是我参与并出版的第一本译著. 适合有技术基础的开源硬件爱好者. </p>
               <p>您可以访问亚马逊查看详情 <a href="http://www.amazon.cn/Arduino%E6%97%A0%E7%BA%BF%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BD%91%E7%BB%9C%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97-%E6%B3%95%E9%B2%81%E8%BF%AA/dp/B00FQ99IRG">亚马逊链接</a>.</p>
               <p><a target="_new" class="btn btn-default" href="http://blog.allengaller.com" role="button">了解更多 »</a></p>
             </div><!--/span-->
@@ -32,8 +29,7 @@
               <img src="http://ag-qiniu.u.qiniudn.com/docker_book.png">
               <h2>Docker 技术入门与实战</h2>
               <p>这是国内第一本 Docker 容器技术的出版物. </p>
-              <p>本书是我参与并出版的第一本译著. </p>
-              <p>本书比较适合有一定Linux基础的容器爱好者. </p>
+              <p>本书是我参与并出版的第一本译著. 适合有一定Linux基础的容器爱好者. </p>
               <p>您可以访问亚马逊查看详情 <a target="_new" href="http://z.cn">亚马逊链接</a></p>
               <p><a target="_new" class="btn btn-default" href="http://blog.allengaller.com" role="button">了解更多 »</a></p>
             </div><!--/span-->

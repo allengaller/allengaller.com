@@ -2,23 +2,17 @@
 <!-- saved from url=(0041)http://v3.bootcss.com/examples/offcanvas/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <?php require('elem/head.php');?>
-
     <body>
     <?php require('elem/nav.php');?>
-
     <div class="container">
-
       <div class="row row-offcanvas row-offcanvas-right">
-
         <div class="col-xs-12 col-sm-12">
-        <!-- col-sm-9 -->
           <p class="pull-right visible-xs">
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
           
-          <div class="jumbotron" style="min-height: 250px">
-              <p>我是热情的开源人. </p>
-              <p>目前是 DockerPool 社区的运营负责人, CoreOS 中国用户组的创始人兼运营.</p>
+          <div class="jumbotron" style="min-height: 150px">
+              <p>我目前主要负责是 DockerPool 社区的运营, 同时是CoreOS 中国用户组的创始人兼运营负责人.</p>
               <p>我还建立了 Deis , Vargrant 以及无线传感器中国用户组. 目前各大社区都需要合伙人, 欢迎扎堆.</p>
           </div>
 

@@ -6,7 +6,7 @@
     <meta name="author" content="">
     <link rel="icon" href="http://v3.bootcss.com/favicon.ico">
 
-    <title>Allen Galler</title>
+    <title>Allen Galler 亚仑</title>
 
     <!-- Bootstrap core CSS -->
     <link href="http://v3.bootcss.com/dist/css/bootstrap.min.css" rel="stylesheet">

@@ -32,7 +32,7 @@
               <p><a class="btn btn-default" href="#" role="button">出版中 Publishing » »</a></p>
             </div><!--/span-->
             <div class="col-xs-6 col-lg-4">
-              <img src="http://ag-qiniu.u.qiniudn.com/rocky-logo.jpg" height="338px">
+              <img src="http://77l58v.com1.z0.glb.clouddn.com/zen-guide.jpg" width="260px" height="338px">
               <h2>程序员禅修指南</h2>
               <p>这是我书写中的第一本开源图书. 近期将在 Gitbook 平台发布v0.1. </p>
               <p>本书将汇聚我在编程, 瑜伽, 禅修过程中的点滴积累与感悟.</p>

@@ -11,12 +11,12 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li><a href="http://allengaller.com/"><i class="fa fa-home"></i>&nbsp;&nbsp;Main&nbsp;&nbsp;</a></li>
-            <li><a href="studio.php"><i class="fa fa-lightbulb-o"></i>&nbsp;&nbsp;Studios&nbsp;&nbsp;</a></li>
-            <li><a href="community.php"><i class="fa fa-globe"></i>&nbsp;&nbsp;Community&nbsp;&nbsp;</a></li>
-            <li><a href="publishing.php"><i class="fa fa-book"></i>&nbsp;&nbsp;Publishing&nbsp;&nbsp;</a></li>
-            <li><a  target="_new" href="http://blog.allengaller.com/index.php/about.html"><i class="fa fa-info"></i>&nbsp;&nbsp;About&nbsp;&nbsp;</a></li>
-            <li><a target="_new" href="http://blog.allengaller.com/"><i class="fa fa-plug"></i>&nbsp;&nbsp;Blog&nbsp;&nbsp;</a></li>
+            <li><a href="http://allengaller.com/"><i class="fa fa-home"></i>&nbsp;&nbsp;Main 首页&nbsp;&nbsp;</a></li>
+            <li><a href="studio.php"><i class="fa fa-lightbulb-o"></i>&nbsp;&nbsp;Studios 工坊&nbsp;&nbsp;</a></li>
+            <li><a href="community.php"><i class="fa fa-globe"></i>&nbsp;&nbsp;Community 社区&nbsp;&nbsp;</a></li>
+            <li><a href="publishing.php"><i class="fa fa-book"></i>&nbsp;&nbsp;Publishing 出版&nbsp;&nbsp;</a></li>
+            <li><a  target="_new" href="http://blog.allengaller.com/index.php/about.html"><i class="fa fa-info"></i>&nbsp;&nbsp;About 关于&nbsp;&nbsp;</a></li>
+            <li><a target="_new" href="http://blog.allengaller.com/"><i class="fa fa-plug"></i>&nbsp;&nbsp;Blog 博客&nbsp;&nbsp;</a></li>
           </ul>
         </div><!-- /.nav-collapse -->
       </div><!-- /.container -->

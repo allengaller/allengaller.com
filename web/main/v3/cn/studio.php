@@ -16,7 +16,7 @@
 
           <div class="row">
             <div class="col-xs-6 col-lg-4">
-              <h2>apps4coder 基码工坊</h2>
+              <h2>apps4coder 基码坊</h2>
               <p>The apps4coder Studio focuses on creating awesome web/mobile apps for programmers or hacker. </p>
               <p>We are shipping out some dev-tools, social and educational apps, and even health solutions.</p>
 
@@ -25,7 +25,7 @@
               <p><a target="_new" class="btn btn-default" href="http://www.apps4coder.com" role="button">访问网站 View Website »</a></p>
             </div><!--/span-->
             <div class="col-xs-6 col-lg-4">
-              <h2>ZenX 正禅工坊</h2>
+              <h2>ZenX 正禅坊</h2>
               <p>The ZenX Studio is focusing on creating nice and simple web/mobile apps for everyone.</p>
               <p>Our main belief is using our apps to help people to live a simple and mindfulness life.</p>
 
@@ -34,7 +34,7 @@
               <p><a target="_new" class="btn btn-default" href="http://www.zenxapp.com" role="button">访问网站 View Website »</a></p>
             </div><!--/span-->
             <div class="col-xs-6 col-lg-4">
-              <h2>PannaArts 安然工坊</h2>
+              <h2>PannaArts 裕融堂</h2>
               <p>The PannaArts Studio is a personal workshop that focusing on works that combine digital art and AI,</p>
               <p>and creating a peaceful experience while using/wearing this works.</p>
 

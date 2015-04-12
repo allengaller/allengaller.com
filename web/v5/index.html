@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>Allen Galler - Home</title>
+    <link rel="stylesheet" type="text/css" href="src/main.css">
+</head>
+
+<body>
+<div class="vi">
+    <div class="sidebar">
+        <div class="header">
+            <h1 style="opacity: 1; top: 0px;">Allen Galler</h1>
+            <br/><br/>
+            <div class="quote">
+                <p style="opacity: 1; top: 0px;" class="quote-text animate-init">But how could you live and have no story to tell ?</p>
+                <p style="opacity: 1; top: 0px;" class="quote-author animate-init">White Nights—— <strong>Fyodor Dostoyevsky</strong></p>
+            </div>
+        </div>
+        <br/><br/>
+        <div class="menu">
+            <a style="opacity: 1; top: 0px;" href="http://blog.allengaller.com/about" class="animate-init">About</a>
+            <a style="opacity: 1; top: 0px;" href="https://github.com/allengaller" class="animate-init">GitHub</a>
+            <a style="opacity: 1; top: 0px;" href="http://blog.allengaller.com/" class="animate-init">Blog</a>
+            <a style="opacity: 1; top: 0px;" href="http://douban.com/people/allengaller" class="animate-init">Douban</a>
+            <a style="opacity: 1; top: 0px;" href="http://weibo.com/allengaller" class="animate-init">Weibo</a>
+            <a style="opacity: 1; top: 0px;" href="http://www.allengaller.com/cn.html" class="animate-init">中文</a>
+        </div>
+        <div class="location">
+            <i style="opacity: 1; top: 0px;" class="location-icon"></i>
+            <span style="opacity: 1; top: 0px;" class="location-text animate-init">Shenzhen - China</span>
+        </div>
+    </div>
+
+    <div class="content">
+        <span class="close">close</span>
+    </div>
+</div>
+<script type="text/javascript" src="src/index.js"></script>
+<script>
+    $(document).ready(function () {
+        var delay = 1;
+        var DELAY_STEP = 200;
+        var animationOptions = { opacity: 1, top: 0};
+
+        $('h1').animate(animationOptions).promise()
+                .pipe(animateMain)
+                .pipe(animateLocationIcon);
+
+        function animateMain() {
+            var dfd = $.Deferred();
+            var els = $('.animate-init');
+            var size = els.size();
+
+            els.each(function (index, el) {
+                delay++;
+                $(el).delay(index * DELAY_STEP)
+                        .animate(animationOptions);
+                (size - 1 === index) && dfd.resolve();
+            });
+            return dfd.promise();
+        }
+
+        function animateLocationIcon() {
+            $('.location-icon').delay(delay * DELAY_STEP).animate({
+                opacity: 1,
+                top: 0
+            }).promise().done(animationQuote);
+        }
+
+        function animationQuote() {}
+    });
+</script>
+
+
+</body></html>

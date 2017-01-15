@@ -7,13 +7,13 @@ title: allengaller
 subtitle: All about cloud & devops
 description: All about cloud & devops
 author: allengaller
-language: en
+language: 
 timezone: UTC
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
-root: /blog
+root: /
 permalink: :category/:title/
 permalink_defaults:
 

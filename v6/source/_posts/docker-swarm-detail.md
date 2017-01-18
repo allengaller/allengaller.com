@@ -8,7 +8,7 @@ tags:
 
 # about 
 
-# command
+# docker swarm command
 
 - docker-machine ls
 

@@ -14,6 +14,7 @@ tags:
 - [dockerfile]()
 - [image]()
 - [yaml]()
+- [file system]()
 
 - [dockerhub]()
 
